@@ -1,9 +1,9 @@
 ### Bem vindo ao meu perfil! Eu sou Gabriel Camboim 👋
 
 - 🔭 Hoje trabalho como desenvolvedor Full Cycle
-- 
+
 <div align="center">
-  <a href="https://github.com/henriquebh8">
+  <a href="https://github.com/camboimgabriel">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=henriquebh8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquebh8&layout=compact&langs_count=7&theme=dracula"/>
 </div>
