@@ -1,7 +1,7 @@
-### Bem vindo ao meu perfil! Eu sou o Henrique Novaes 👋
+### Bem vindo ao meu perfil! Eu sou Gabriel Camboim 👋
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 estudando typescript
+- 🔭 Hoje trabalho como desenvolvedor Full Cycle
+- 
 <div align="center">
   <a href="https://github.com/henriquebh8">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=henriquebh8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
