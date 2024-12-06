@@ -1,26 +1,18 @@
+## Hey everyone! 👋  
 
-### Hi 👋
-I'm a Computer Engineer student at Federal University of Paraíba.
+I’m **Gabriel Camboim**, a Software Engineer from Brazil 🇧🇷 with **6+ years of experience** and a strong specialization in **React Flow / XyFlow** for over 3 years. 🚀  
 
-I love find the best ways to solve problems and that's why I turned into developer. Nowadays I work developing Full Stack Web/Mobile Apps and I try to ever be updated with newest technology in terms of Full Stack Development and DevOps.
+### One of my proudest achievements?  
+I **led the development** of [**VisualFlows.io**](https://visualflows.io/) — an advanced visual workflow tool that rivals platforms like FigJam, pushing the boundaries of what’s possible with **React Flow**. 🌟  
 
-Main Skills:
+Beyond frontend development, I have extensive experience in **AI-powered applications**, leveraging tools like the **Vercel AI SDK** to integrate cutting-edge AI features into dynamic, user-centric solutions.  
 
-Programming Languages:
-C, Python, Javascript, Typescript;
+---
 
-Databases: 
-PostgreSQL, DynamoDB, MongoDB;
+If you’re looking for someone with deep expertise in **frontend technologies**, **scalable architectures**, and **interactive design tools**, feel free to check out my:  
+- **[Resume](https://drive.google.com/file/d/1KNNddW0-CVSWWn-IchaTLg-Vd2HMqFJS/view?usp=sharing)**  
+- **[LinkedIn](https://www.linkedin.com/in/gabrielcamboim/)**  
 
-Frameworks/Libraries:
-React, React Native, Node.js, Express.js, Ionic, Angular, Redux, Serverless;
+---
 
-Amazon Web Services:
-Lambda, EC2, S3, Elastic Beanstalk, Amplify, AppSync, Route 53 and Cognito.
-
-Others:
-Docker, CI/CD (Github Actions, Travis), Linux, Git, Shell Script, REST API, GraphQL, DB Diagram.
-
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=camboimgabriel)
-
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-camboim-5845641ba/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/camboimgabriel/) 
+Always excited to collaborate or discuss innovative projects! Let’s create something amazing together. 💡  
