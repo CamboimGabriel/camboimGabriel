@@ -10,7 +10,6 @@ Beyond frontend development, I have extensive experience in **AI-powered applica
 ---
 
 If you’re looking for someone with deep expertise in **frontend technologies**, **scalable architectures**, and **interactive design tools**, feel free to check out my:  
-- **[Resume](https://drive.google.com/file/d/1KNNddW0-CVSWWn-IchaTLg-Vd2HMqFJS/view?usp=sharing)**  
 - **[LinkedIn](https://www.linkedin.com/in/gabrielcamboim/)**  
 
 ---
